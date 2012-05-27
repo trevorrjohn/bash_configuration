@@ -1,0 +1,6 @@
+# No Swap Files
+*.swp
+
+# Ignore keys
+private_keys.sh
+
