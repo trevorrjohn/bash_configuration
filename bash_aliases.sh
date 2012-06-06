@@ -11,6 +11,7 @@ alias mvF='mv -f'
 # Folder Shortcuts
 alias comp='cd ~/Google\ Drive/Comp'
 alias down='cd ~/Downloads'
+alias sy='cd ~/Google\ Drive/Comp/syphus'
 
 # Rails Shortcuts
 alias rs='rails server'
@@ -37,5 +38,5 @@ alias rebasemaster='git fetch && git rebase master'
 
 # Bash shortcuts
 alias sb='source ~/.bash_profile'
-alias mba='mvim ~/.bash_configuration/bash_aliases'
+alias mba='mvim ~/.bash_profile_includes/bash_aliases.sh'
 
