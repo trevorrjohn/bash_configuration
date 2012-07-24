@@ -2,5 +2,5 @@
 *.swp
 
 # Ignore keys
-private_keys.sh
+*private*
 

@@ -1,3 +1,1 @@
-# Some settings for Bash
-shopt -s autocd cdspell checkwinsize dotglob nocaseglob
-
+shopt -s cdspell checkwinsize dotglob nocaseglob
